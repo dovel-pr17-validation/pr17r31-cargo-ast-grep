@@ -63,7 +63,7 @@
     "dprint": "0.64.3",
     "smol-toml": "1.9.1",
     "tsimp": "2.0.12",
-    "typescript": "6.0.3"
+    "typescript": "7.0.2"
   },
   "ava": {
     "nodeArguments": [
